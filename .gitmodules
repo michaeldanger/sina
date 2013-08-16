@@ -1,0 +1,3 @@
+[submodule "views/normalize"]
+	path = views/normalize
+	url = https://github.com/michaeldanger/normalize.scss.git
